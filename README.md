@@ -3,7 +3,7 @@
 
 Official domain: https://www.aurastyleai.com  
 App Store: https://apps.apple.com/app/id6752574157  
-Support email: support@aurastyleai.com
+Support email: liwinghin731@gmail.com
 
 ## DNS (GoDaddy)
 - A @ -> 185.199.108.153
